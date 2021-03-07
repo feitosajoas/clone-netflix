@@ -4,7 +4,7 @@ Clone criado como projeto do bootcamp de angular, criei um Netflix de anime deno
 
 Instrutor: Felipe Aguiar
 
-Imagen do projeto:
+Imagens do projeto:
 ![image](https://user-images.githubusercontent.com/49026950/110250010-e1ac9b80-7f57-11eb-8823-1b7e508feff5.png)
 
 ![image](https://user-images.githubusercontent.com/49026950/110250039-10c30d00-7f58-11eb-9cfb-8bcfbd6b3497.png)
